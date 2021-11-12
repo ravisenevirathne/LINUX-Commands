@@ -1,5 +1,5 @@
 # LINUX-Commands
-Useful and Important Linux Commands...
+Useful and Important Linux Commands....
 
 
 **Linux FileSystem folder Structure**
